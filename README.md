@@ -2,7 +2,7 @@
 
 <div align="center" style="display: flex; align-items: center; gap: 8px; font-size: 20px; font-weight: bold;">
   <img src="https://github.com/fluidicon.png" width="24" height="24" alt="GitHub Logo">
-  <span style="color: #007bff; font-weight: bold;">@interval-package|Zaterval. For a better future !!!</span>
+  <span style="color: #007bff; font-weight: bold;">@interval-package | Zaterval. For a better future !!!</span>
 </div>
 
 
@@ -61,7 +61,7 @@ If you're working on cutting-edge AI or have an interesting research project, fe
 ---
 
 ## 🔗 **More Details**  
-🌍 Visit my personal website 👉 [Zaterval Space](https://zaterval.top)  
+🌍 Visit my personal website 👉 [Zaterval Space](https://interval-package.github.io/)  
 
 📩 **Contact Me**:  
 - **Email**: [ziang_zheng@foxmail.com](mailto:ziang_zheng@foxmail.com)  
