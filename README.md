@@ -1,30 +1,36 @@
 # 👋 Welcome to <span style="color:#007bff; font-weight:bold;">@interval-package</span>'s Space  
 
+<div align="center" style="display: flex; align-items: center; gap: 8px; font-size: 20px; font-weight: bold;">
+  <img src="https://github.com/fluidicon.png" width="24" height="24" alt="GitHub Logo">
+  <span style="color: #007bff; font-weight: bold;">@interval-package|Zaterval. For a better future !!!</span>
+</div>
+
+
 <div align="center">  
-  <img src="https://github.com/fluidicon.png" width="100" alt="GitHub Logo">  
+  <img src="./pics/head_bar.jpg" width="100%" alt="GitHub Logo">  
 </div>  
 
 ## 🚀 About Me  
 <table>
   <tr>
-    <td>🎓 <strong>Education</strong></td>
-    <td>Bachelor's Degree from <em>Central South University</em></td>
-  </tr>
-  <tr>
     <td>📚 <strong>Current</strong></td>
     <td>Master's Student at <em>Tsinghua University</em></td>
+  </tr>
+  <tr>
+    <td>🎓 <strong>Education</strong></td>
+    <td>Bachelor's Degree from <em>Central South University</em></td>
   </tr>
 </table>  
 
 ### 🔬 Research Interests  
 - 🤖 **Reinforcement Learning**  
 - 🏎️ **Autonomous Driving**  
-- 📡 **Robotics & AI**  
+- 📡 **Robotics & AI**  -> **Embodied AI**
 
 ---
 
 ## 🤝 Let's Collaborate!  
-💡 I’m open to **collaborations** in various fields, especially **Reinforcement Learning** and **Autonomous Systems**.  
+💡 I’m open to **collaborations** in various fields, especially **Reinforcement Learning** and **Embodied AI**.  
 If you're working on cutting-edge AI or have an interesting research project, feel free to reach out!  
 
 ---
