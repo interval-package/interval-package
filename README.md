@@ -1,4 +1,4 @@
-# 👋 Welcome to <span style="color:#007bff; font-weight:bold;">@interval-package</span>'s Space  
+# 👋 Welcome to <span style="color:#007bff; font-weight:bold;">@Ziang Zheng</span>'s Space  
 
 <div align="center" style="display: flex; align-items: center; gap: 8px; font-size: 20px; font-weight: bold;">
   <img src="https://github.com/fluidicon.png" width="24" height="24" alt="GitHub Logo">
@@ -14,7 +14,7 @@
 <table>
   <tr>
     <td>📚 <strong>Current</strong></td>
-    <td>Master's Student at <em>Tsinghua University</em></td>
+    <td>Master's Student at <em>Tsinghua University iDlab</em></td>
   </tr>
   <tr>
     <td>🎓 <strong>Education</strong></td>
